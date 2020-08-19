@@ -2,14 +2,15 @@
 
 a = 10
 b = 15
-result_sum = None
+result_sum = a + b
 
 
 # Find the difference between c and d. Save the expression to the result_diff variable
 
 c = 10
 d = 15
-result_diff = None
+result_diff = c- d
+
 
 
 # Multiply e by f. Save the expression to the result_multiplication variable
