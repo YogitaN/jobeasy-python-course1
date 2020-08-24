@@ -6,13 +6,11 @@ result_string_1 = 'Python is the \nvery simple language'
 
 result_string_2 = 'What does the word \'integer\' mean'
 
-
 # Assign number variable to value "5" (as a string). Then rise the number to the power 3.
 # Save the expression to result_value variable
 
 number = "5"
 result_value = int(number) ** 3
-
 
 # Enter a random number, then save the value to n variable.
 # Finally, you should repeat the variable "word" n times and save the value to result_string_3
