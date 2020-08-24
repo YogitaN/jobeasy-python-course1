@@ -13,7 +13,7 @@ print(result_2)
 
 string_2 = 'Python'
 result_3 = string_2[::-1]
-
+print(result_3)
 
 
 # Slice string string_3 from 5th to 20th (excluding 20th) character and save the result to variable result_4
